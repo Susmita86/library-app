@@ -1,0 +1,5 @@
+pymongo[srv]
+certifi~=2022.12.7
+Flask~=2.2.2
+boto3~=1.26.71
+botocore~=1.29.71
